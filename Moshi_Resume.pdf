@@ -1,0 +1,162 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4588 >>
+stream
+0.82 0.84 0.88 RG 0.7 w
+50 726 m 545 726 l S
+50 639 m 545 639 l S
+50 385 m 545 385 l S
+50 261 m 545 261 l S
+50 169 m 545 169 l S
+50 98 m 545 98 l S
+0.08 0.1 0.15 rg
+BT
+/F2 22 Tf
+1 0 0 1 50 790 Tm
+(MOSHI) Tj
+/F1 10.5 Tf
+1 0 0 1 50 770 Tm
+(Physical AI, Robotics & Embedded Systems Engineer  |  @moshi89) Tj
+/F1 9.5 Tf
+1 0 0 1 50 753 Tm
+(Pusan National University \(PNU\) - B.S. Computer Science & Engineering \(4th Year\)) Tj
+/F1 9.5 Tf
+1 0 0 1 50 738 Tm
+(Busan, South Korea   |   Email: moshim668@gmail.com   |   GitHub: https://github.com/moshi89) Tj
+/F2 11 Tf
+1 0 0 1 50 706 Tm
+(CURRENT INTERESTS) Tj
+/F1 9.5 Tf
+1 0 0 1 50 690 Tm
+(Physical AI & Robotic AI \(Robot Arm Manipulation, Kinematics & Embodied Control\), Embedded AI) Tj
+/F1 9.5 Tf
+1 0 0 1 50 677 Tm
+(\(On-Device ML/ONNX\), Real-Time Operating Systems \(uC/OS-III / FreeRTOS\), Kotlin Jetpack Compose.) Tj
+/F2 11 Tf
+1 0 0 1 50 647 Tm
+(FEATURED ENGINEERING PROJECTS) Tj
+/F2 10 Tf
+1 0 0 1 50 628 Tm
+(1. Clinical CBT Companion App \(Android & On-Device NLP\)) Tj
+/F1 9 Tf
+1 0 0 1 50 614 Tm
+(   - Problem: Cloud-only mental health chatbots suffer high latency, API costs, and offline unavailability.) Tj
+/F1 9 Tf
+1 0 0 1 50 601 Tm
+(   - Role: Lead Android & ML Systems Engineer \(MVVM Compose architecture, ONNX quantization, API hybrid\).) Tj
+/F1 9 Tf
+1 0 0 1 50 588 Tm
+(   - Tech: Kotlin, Jetpack Compose, Coroutines, XLM-RoBERTa \(ONNX\), Gemini API, OpenWeatherMap, DataStore.) Tj
+/F1 9 Tf
+1 0 0 1 50 575 Tm
+(   - Result: Sub-millisecond local distortion classification, 0ms UI ANR lag, resilient offline fallback.) Tj
+/F2 10 Tf
+1 0 0 1 50 552 Tm
+(2. RTOS-Factory-Safety-Controller \(STM32 & uC/OS-III\)) Tj
+/F1 9 Tf
+1 0 0 1 50 538 Tm
+(   - Problem: Industrial conveyors risk mechanical jamming & human injury without deterministic safety interlocks.) Tj
+/F1 9 Tf
+1 0 0 1 50 525 Tm
+(   - Role: Embedded RTOS Architect \(9-task priority scheduler, ISR emergency bypass, servo safety gate\).) Tj
+/F1 9 Tf
+1 0 0 1 50 512 Tm
+(   - Tech: C/C++, uC/OS-III, STM32 HAL, ADXL345 Vibration Sensor \(I2C\), HC-SR04 Ultrasonic, SG90 Servo.) Tj
+/F1 9 Tf
+1 0 0 1 50 499 Tm
+(   - Result: Fail-secure 90-deg gate locking before motor cutoff & two-tier conveyor flushing protocol.) Tj
+/F2 10 Tf
+1 0 0 1 50 476 Tm
+(3. Smart Pet Companion Robot \(Arduino Uno Hardware Twin, 2024\)) Tj
+/F1 9 Tf
+1 0 0 1 50 462 Tm
+(   - Problem: Single-core microcontrollers must coordinate feeding, sonar tracking, audio, and LCD UI together.) Tj
+/F1 9 Tf
+1 0 0 1 50 449 Tm
+(   - Role: Hardware & Firmware Developer \(Pin multiplexing, custom 5x8 CGRAM LCD glyphs, motor control\).) Tj
+/F1 9 Tf
+1 0 0 1 50 436 Tm
+(   - Tech: C/C++ \(Arduino Uno R3\), HC-SR04 Sonar, SG90 Servo, DFPlayer Mini, 16x2 I2C LCD, Photoresistor.) Tj
+/F1 9 Tf
+1 0 0 1 50 423 Tm
+(   - Result: Responsive non-blocking sensor loop with automated night-light & reactive obstacle avoidance.) Tj
+/F2 11 Tf
+1 0 0 1 50 393 Tm
+(COMPETITION & HACKATHON EXPERIENCE \(2026 - COMPLETED\)) Tj
+/F2 10 Tf
+1 0 0 1 50 374 Tm
+(DACON 2026 AI & SW-Centered University Digital Competition \(Completed Experience\)) Tj
+/F1 9 Tf
+1 0 0 1 50 360 Tm
+(   - Participated on behalf of Pusan National University \(July 2026\). Did not place for an award,) Tj
+/F1 9 Tf
+1 0 0 1 50 347 Tm
+(     gaining practical experience in rapid AI/SW prototyping, fault-tolerant pipelines, and benchmarking.) Tj
+/F2 10 Tf
+1 0 0 1 50 326 Tm
+(DIVE 2026 Busan Global Hackathon \(Completed Experience\)) Tj
+/F1 9 Tf
+1 0 0 1 50 312 Tm
+(   - Completed high-intensity team sprint in Busan \(July 2026\). While non-winning, strengthened skills) Tj
+/F1 9 Tf
+1 0 0 1 50 299 Tm
+(     in compressed full-stack delivery, cross-functional teamwork, and live technical pitching.) Tj
+/F2 11 Tf
+1 0 0 1 50 269 Tm
+(TECHNICAL SKILLS) Tj
+/F1 9.5 Tf
+1 0 0 1 50 252 Tm
+(Languages:        C, C++, Kotlin, Python, TypeScript, JavaScript) Tj
+/F1 9.5 Tf
+1 0 0 1 50 237 Tm
+(Embedded & OS:    uC/OS-III, FreeRTOS, STM32, Arduino, I2C/SPI/UART, Servo/Actuator Control) Tj
+/F1 9.5 Tf
+1 0 0 1 50 222 Tm
+(Mobile & Web:     Android Jetpack Compose, MVVM, Coroutines, React, Tailwind CSS, Node.js) Tj
+/F1 9.5 Tf
+1 0 0 1 50 207 Tm
+(AI & Robotics:    PyTorch, ONNX Runtime, XLM-RoBERTa Quantization, Physical AI & Robot Arm Interest) Tj
+/F2 11 Tf
+1 0 0 1 50 177 Tm
+(EDUCATION) Tj
+/F2 9.5 Tf
+1 0 0 1 50 160 Tm
+(Pusan National University \(PNU\), Busan, South Korea) Tj
+/F1 9.5 Tf
+1 0 0 1 50 146 Tm
+(B.S. in Computer Science & Engineering  |  4th Year \(Senior Undergraduate\)) Tj
+/F1 9 Tf
+1 0 0 1 50 80 Tm
+(Portfolio & Interactive Demos: https://github.com/moshi89) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000004890 00000 n 
+0000004960 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5035
+%%EOF

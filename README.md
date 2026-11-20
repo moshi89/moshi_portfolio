@@ -5,7 +5,6 @@ Interactive static portfolio of **Moshi**, a 4th-year Computer Science & Enginee
 - **Live Site:** `https://moshi89.github.io/` *(update with your repository Pages URL if deployed to a subpath)*
 - **GitHub:** [github.com/moshi89](https://github.com/moshi89)
 - **Email:** moshim668@gmail.com
-- **Resume:** Downloadable PDF included (`public/Moshi_Resume.pdf`)
 
 ---
 

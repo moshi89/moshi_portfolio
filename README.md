@@ -9,7 +9,7 @@ Interactive static portfolio of **Moshi**, a 4th-year Computer Science & Enginee
 
 ---
 
-## Current Interests (현재 관심 분야)
+## Current Interests
 - **Physical AI & Robotic AI** (Robot Arm Manipulation, Kinematics & Embodied Control)
 - **On-Device & Embedded AI** (Quantized NLP / ONNX Runtime)
 - **Real-Time Operating Systems** (`uC/OS-III`, `FreeRTOS`, deterministic hardware interlocks)
@@ -17,9 +17,7 @@ Interactive static portfolio of **Moshi**, a 4th-year Computer Science & Enginee
 
 ---
 
-## Featured Projects (대표 프로젝트)
-
-Each project includes its **Overview (대표 프로젝트 소개)**, **Problem Definition (문제 정의)**, **Role (역할)**, **Tech Stack (기술)**, **Results (결과)**, **Interactive/Video Demo Links (데모 링크)**, and **Source Code Links (소스 코드 링크)**:
+## Featured Projects
 
 1. **Clinical CBT Companion App**
    - Offline-first Android mental health app pairing quantized on-device `XLM-RoBERTa` (`ONNX`) distortion detection with Gemini Socratic reframing, GPS/weather-aware behavioral activation, and zero-lag Coroutines (`Dispatchers.IO`).
@@ -35,34 +33,3 @@ Each project includes its **Overview (대표 프로젝트 소개)**, **Problem D
 - **DIVE 2026 Busan Global Hackathon** — Completed sprint participation in Busan (July 2026).
 
 ---
-
-## Tech Stack
-- **Frontend:** React 19, TypeScript, Vite, Tailwind CSS v4, Motion, Lucide Icons
-- **Static Deployment:** Configured with `base: './'` in `vite.config.ts` for GitHub Pages compatibility
-
----
-
-## Local Development & Build
-
-```bash
-# Install dependencies
-npm install
-
-# Run local dev server (http://localhost:3000)
-npm run dev
-
-# Type-check and build static production bundle into dist/
-npm run lint
-npm run build
-```
-
----
-
-## Automatic Deployment to GitHub Pages
-
-This repository includes `.github/workflows/deploy.yml` for automated deployment:
-
-1. Push your code to the `main` branch on GitHub.
-2. In your GitHub repository, open **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-4. The workflow builds `dist/` via Vite and publishes it to GitHub Pages automatically on every push to `main` (or via manual **Run workflow** trigger).

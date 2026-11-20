@@ -1,0 +1,6 @@
+{
+  "name": "Moshi Portfolio",
+  "description": "Academic and Project Portfolio of Moshi, Computer Science & Engineering student at Pusan National University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

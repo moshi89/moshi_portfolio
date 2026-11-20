@@ -2,7 +2,7 @@
 
 Interactive static portfolio of **Moshi**, a 4th-year Computer Science & Engineering undergraduate at **Pusan National University (PNU)**.
 
-- **Live Site:** [https://moshi89.github.io/moshi_portfolio/]
+- **Live Site:** https://moshi89.github.io/moshi_portfolio/
 - **GitHub:** [github.com/moshi89](https://github.com/moshi89)
 - **Email:** moshim668@gmail.com
 
